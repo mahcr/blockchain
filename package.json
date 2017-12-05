@@ -1,7 +1,7 @@
 {
   "name": "BlockchainJS",
   "version": "1.0.0",
-  "description": "",
+  "description": "A blockchain example in NodeJS",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
